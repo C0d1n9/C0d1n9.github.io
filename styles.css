@@ -38,6 +38,7 @@ nav a:hover {
 }
 
 main {
+    display: flex;
     width: 1060px;
     margin: 20px auto;
 }
